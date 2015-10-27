@@ -1,5 +1,5 @@
 # travis-broken-example
 
-![travis](https://travis-ci.org/luchoching/travis-broken-example.svg)
+[![Build Status](https://travis-ci.org/luchoching/travis-broken-example.svg)](https://travis-ci.org/luchoching/travis-broken-example)
 
 An example that will cause a build failure
